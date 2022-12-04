@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="447383849776114" build="ALL" modified="2022-06-26T13:10:12.025Z" icon="0" href="Introduction">
+    <caption translate="true">Использование программы</caption>
+    <topicref type="topic" id="447383820167002" build="ALL" modified="2022-06-26T13:10:48.308Z" icon="0" href="Welcome-topic">
+      <caption translate="true">Раздел &quot;Карта&quot;</caption>
+    </topicref>
+    <topicref type="topic" id="447387154804363" build="ALL" modified="2022-06-26T13:20:19.927Z" icon="0" href="Second-topic">
+      <caption translate="true">Раздел &quot;О замках&quot;</caption>
+    </topicref>
+    <topicref type="topic" id="447387645532663" build="ALL" modified="2022-06-26T13:46:21.237Z" icon="0" href="-2">
+      <caption translate="true">Раздел &quot;Квесты&quot;</caption>
+    </topicref>
+    <topicref type="topic" id="447429611252146" build="ALL" modified="2022-06-30T21:14:10.201Z" icon="0" href="Gallery">
+      <caption translate="true">Раздел &quot;Галерея&quot;</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="44738977815936" build="ALL" modified="2022-06-26T13:37:12.650Z" icon="0" href="Chapter-2">
+    <caption translate="true">Сведения</caption>
+    <topicref type="topic" id="447384819206932" build="ALL" modified="2022-06-26T13:37:20.344Z" icon="0" href="Overview">
+      <caption translate="true">О программе</caption>
+    </topicref>
+    <topicref type="topic" id="447387603090161" build="ALL" modified="2022-06-26T13:39:59.784Z" icon="0" href="-">
+      <caption translate="true">Об авторе</caption>
+    </topicref>
+  </topicref>
+</map>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="Asus" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Использование программы</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Использование программы</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><link displaytype="text" defaultstyle="true" type="topiclink" href="Welcome-topic" style="font-size:16pt; font-weight:bold;">Раздел &quot;Карта&quot;</link></para>
+    <para styleclass="Normal" style="text-align:center;"><link displaytype="text" defaultstyle="true" type="topiclink" href="Second-topic" style="font-size:16pt; font-weight:bold;">Раздел &quot;О замках&quot;</link></para>
+    <para styleclass="Normal" style="text-align:center;"><link displaytype="text" defaultstyle="true" type="topiclink" href="-2" style="font-size:16pt; font-weight:bold;">Раздел &quot;Квесты&quot;</link></para>
+    <para styleclass="Normal" style="text-align:center;"><link displaytype="text" defaultstyle="true" type="topiclink" href="Gallery" style="font-size:16pt; font-weight:bold;">Раздел &quot;Галерея&quot;</link></para>
+  </body>
+</topic>

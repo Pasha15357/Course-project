@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="Asus" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Раздел &quot;О замках&quot;</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Раздел &quot;О замках&quot;</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; text-indent:57px; line-height:1.50;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">При открытии раздела </text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-style:italic;">&quot;О замках&quot;</text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;"> автоматически открывается вкладка с описанием Нового замка (Рисунок 1). Чтобы посмотреть информацию о другом замке, нужно переключиться на другую вкладку вверху формы (Рисунок 2). Если раздел</text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-style:italic;"> &quot;О замках&quot;</text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;"> был открыт после раздела </text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-style:italic;">&quot;Карта&quot;</text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">, то при нажатии кнопки</text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-style:italic;"> &quot;Назад&quot;</text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;"> вы вернетесь на раздел </text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-style:italic;">&quot;Карта&quot;</text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">. Если требуется вернуться на главную, то нужно нажать на кнопку </text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-style:italic;">&quot;Главная&quot;</text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">.</text></para>
+    <para styleclass="Normal" style="text-align:justify; text-indent:57px; line-height:1.50;"></para>
+    <para styleclass="Normal" style="text-align:center; text-indent:57px; line-height:1.50;"><image src="clip0006.png" scale="57.50%" width="706" height="435" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; text-indent:57px; line-height:1.50;"><text styleclass="Image Caption">Рисунок 1</text></para>
+    <para styleclass="Normal" style="text-align:center; text-indent:57px; line-height:1.50;"></para>
+    <para styleclass="Normal" style="text-align:center; text-indent:57px; line-height:1.50;"><image src="clip0007.png" scale="56.80%" width="699" height="430" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; text-indent:57px; line-height:1.50;"><text styleclass="Image Caption">Рисунок 2</text></para>
+  </body>
+</topic>

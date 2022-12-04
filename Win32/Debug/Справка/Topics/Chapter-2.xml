@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2022-06-26T13:56:16.670+03:00" lasteditedby="Asus" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Сведения</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Сведения</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><link displaytype="text" defaultstyle="true" type="topiclink" href="Overview" style="font-size:16pt; font-weight:bold;">О программе</link></para>
+    <para styleclass="Normal" style="text-align:center;"><link displaytype="text" defaultstyle="true" type="topiclink" href="-" style="font-size:16pt; font-weight:bold;">Об авторе</link></para>
+  </body>
+</topic>

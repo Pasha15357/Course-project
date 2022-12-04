@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="Asus" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Об авторе</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Об авторе</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; text-indent:57px;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Автор программы - Гаврилов Павел Константинович. Учится в Гродненском государственном политехническом колледже на 2-ом курсе в группе ПЗТ-34. Специальность - техник-программист. </text></para>
+    <para styleclass="Normal" style="text-align:center; text-indent:57px;"><link displaytype="text" defaultstyle="true" type="weblink" href="https://www.instagram.com/__pashagavrilov__/" target="_blank" style="font-family:&apos;Times New Roman&apos;; font-size:20pt;">Ссылка на создателя.</link></para>
+  </body>
+</topic>

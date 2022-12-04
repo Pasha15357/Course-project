@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="Asus" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Раздел &quot;Галерея&quot;</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Раздел &quot;Галерея&quot;</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; text-indent:57px; line-height:1.50;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">В данном разделе вы можете просмотреть изображения замков в виде галереи. (Рисунок 1). Сделать это можно, нажав на изображение замка в правой части экрана. (Рисунок 2). Увидеть нижнюю часть панели можно, прокрутив полосу прокрутки.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0001.png" scale="45.02%" width="610" height="347" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption">Рисунок 1</text></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0002.png" scale="45.63%" width="618" height="351" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption">Рисунок 2</text></para>
+  </body>
+</topic>

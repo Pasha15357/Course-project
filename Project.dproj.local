@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.328,=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Project.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit4.pas=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Map.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.476,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit2.pas=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Map.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit3.dfm=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Quest.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit5.pas=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Gallery.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit3.dfm=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Quest.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit4.dfm=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Map.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit5.dfm=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Gallery.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.476,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit2.dfm=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Map.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.028,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Quests.pas=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.126,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Quests.pas=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Info.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit3.pas=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Quest.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit3.pas=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Quest.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.126,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Quests.dfm=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Info.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.111,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.765,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.028,F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Quests.dfm=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\Учеба\4 семестр\ОАиП\!КУРСАЧ\Проект\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.421,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
